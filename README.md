@@ -34,7 +34,7 @@ The main analysis is contained in the [Stackoverflow_Survey_Technology_Radar_202
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the Medium post available [here](https://medium.com/@schuessler.katharina/).
+The main findings of the code can be found at the Medium post available [here](https://medium.com/@schuessler.katharina/the-data-scientists-technology-toolbox-it-s-not-only-about-python-dec65ce96393).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
